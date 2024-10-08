@@ -10,5 +10,6 @@ JavaScript:
 JavaScript is used to add interactivity. It enables users to:
 
 Add new tasks by typing in the input field and clicking the enter .
-
+Left click to toggle completed.
+Right click to delete todo.
 Remove tasks from the list when they are no longer needed.
